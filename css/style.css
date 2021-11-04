@@ -1,0 +1,30 @@
+body{
+    margin: auto;
+    max-width: 50%;
+    min-width: 500px;
+}
+
+h1{
+    font-style: italic;
+    color: white;
+}
+
+legend{
+    font-style: revert;
+    color: darkred;
+}
+.header_background-color{
+    background-color: #006591;
+}
+.body-bg-color{
+    background-color: #fefefe;
+}
+
+.main_blue{
+    color: #006591;
+}
+
+.tenpxSpace{
+    margin-left: 10px;
+    color: red;
+}
